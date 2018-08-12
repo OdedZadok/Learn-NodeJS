@@ -20,8 +20,8 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Elastic",
-            "program": "${workspaceFolder}/Playground/elastic.js"
+            "name": "Launch Elastic cloud",
+            "program": "${workspaceFolder}/Playground/elastic_cloud.js"
         }
 
     ]
